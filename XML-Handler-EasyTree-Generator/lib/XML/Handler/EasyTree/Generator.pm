@@ -260,13 +260,13 @@ L<perl-xml@listserv.ActiveState.com>
 
 =head1 AUTHOR
 
-wren argetlahm, E<lt>wren@cpan.orgE<gt>
-L<http://collab.freegeek.org/~wren/>
+wren ng thornton, E<lt>wren@cpan.orgE<gt>
+L<http://llama.freegeek.org/~wren/>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright (C) 2004 by wren argetlahm AKA Nicholas Thornton.
-All rights reserved.
+Copyright (C) 2004~2006 by wren ng thornton.
+ALL RIGHTS RESERVED.
 
 This library is free software; you can redistribute it and/or
 modify it under the same terms as Perl itself, either Perl
