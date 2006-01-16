@@ -15,8 +15,8 @@ use diagnostics;
 use vars qw($default_obj $error $AUTOLOAD);
 # only make default object once to reduce latency
 $default_obj = XML::Handler::EasyTree::Generator->new();
-our $VERSION = '0.01';
-our $revision = '$Id: XML::Handler::EasyTree::Generator.pm,v 1.0 2004/08/23 05:24:21 wren Exp $';
+our $VERSION = '0.03';
+our $revision = '$Id: XML::Handler::EasyTree::Generator.pm,v 1.0 2006/01/16 02:40:00 wren Exp $';
 
 =head1 SYNOPSIS
 
@@ -280,6 +280,14 @@ you may have available.
 =item B<v0.0>
 
 =over 4
+
+=item *
+
+Tried better to make v0.02 updates consistent in meta files. (v0.03)
+
+=item *
+
+Updated author's name and contact info. (v0.02)
 
 =item *
 
